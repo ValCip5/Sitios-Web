@@ -5,7 +5,7 @@ function PaginaWeb() {
     return (
         <ul>
             <li>
-                <a href="#">
+                <a href="https://php-albums.herokuapp.com/">
                         <div className="left">
                             <h2>Albums (PHP)</h2>
                         </div>
@@ -16,7 +16,7 @@ function PaginaWeb() {
             </li>
 
             <li>
-            <a href="#">
+            <a href="https://payloadersstrike.web.app/">
                     <div className="left">
                         <h2>Payloaders Strike! (REACT)</h2>
                     </div>
@@ -26,7 +26,7 @@ function PaginaWeb() {
                 </a>
             </li>
             <li>
-                <a href="#">
+                <a href="https://cv-falso.herokuapp.com/">
                         <div className="left">
                             <h2>Template de CV (REACT)</h2>
                         </div>
@@ -36,7 +36,7 @@ function PaginaWeb() {
                 </a>
             </li>
             <li>
-                <a href="#">
+                <a href="https://vida-saludable.herokuapp.com/">
                         <div className="left">
                             <h2>Vida Saludable (HTML)</h2>
                         </div>
