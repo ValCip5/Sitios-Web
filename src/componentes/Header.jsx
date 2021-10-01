@@ -10,9 +10,9 @@ function Header() {
             </div>
             <h1>Valentín Cipriano</h1>
             <ul className="social">
-                <li><a href="#"><i className="bi-linkedin"></i></a></li>
-                <li><a href="#"><i className="bi-github"></i></a></li>
-                <li><a href="#"><i className="bi-instagram"></i></a></li>
+                <li><a href="https://www.linkedin.com/in/valent%C3%ADn-cipriano-1245391a3/"><i className="bi-linkedin"></i></a></li>
+                <li><a href="https://github.com/ValCip5"><i className="bi-github"></i></a></li>
+                <li><a href="https://www.instagram.com/valcip5/"><i className="bi-instagram"></i></a></li>
             </ul>
 
             <div>
